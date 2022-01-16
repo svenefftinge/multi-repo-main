@@ -4,7 +4,7 @@
 			"path": "."
 		},
 		{
-			"path": "../multi-repo-sub1"
+			"path": "../sub-repo"
 		}
 	],
 	"settings": {}
