@@ -1,7 +1,8 @@
 subRepositories:
   - url: https://github.com/svenefftinge/multi-repo-sub1
+    checkoutLocation: sub-repo
 tasks:
   - before: |
-      cd ../multi-repo-sub1
+      cd ../sub-repo
     init: echo "hello"
 workspaceLocation: multi-repo-main/my-project.code-workspace
