@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../multi-repo-sub1"
+		},
+		{
+			"path": "../multi-repo-sub2"
 		}
 	],
 	"settings": {}
