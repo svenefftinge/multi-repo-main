@@ -1,0 +1,6 @@
+subRepositories:
+  - url: https://github.com/svenefftinge/multi-repo-sub1
+tasks:
+  - before: |
+      cd ../multi-repo-sub1
+    init: echo "hello"
