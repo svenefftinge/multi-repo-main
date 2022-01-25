@@ -5,4 +5,7 @@ tasks:
   - before: |
       cd ../multi-repo-sub1
     init: echo "hello"
+  - before: |
+      cd ../multi-repo-sub2
+    init: echo "hello repo2"
 workspaceLocation: multi-repo-main/my-project.code-workspace
