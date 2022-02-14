@@ -1,4 +1,4 @@
-subRepositories:
+additionalRepositories:
   - url: https://github.com/svenefftinge/multi-repo-sub1
     checkoutLocation: sub-repo
 tasks:
