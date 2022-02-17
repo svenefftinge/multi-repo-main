@@ -1,4 +1,4 @@
-# Multi repository project example for Gitpod
+# Multi repository project example
 
 This is the main repository of a multi-repository example project.
 
